@@ -21,7 +21,9 @@ The project handles a realistically-sized dataset (31,995+ rows) and showcases i
 
 
 <img width="1907" height="657" alt="Screenshot 2025-10-24 160834" src="https://github.com/user-attachments/assets/7a6d3dbd-542e-4b84-911a-b3879731d771" />
-- **Dashboard link:** https://dsa2040aetexamaime232-e34haydw2ruur4izwjrhjo.streamlit.app/
+
+**Dashboard link:** (https://dsa2040aetexamaime232-e34haydw2ruur4izwjrhjo.streamlit.app/)
+
 ---
 
 ##  Data Source
@@ -448,7 +450,7 @@ The loading phase has been implemented and you can access it here: https://githu
 ##  Contact
  
 You can contact me through my email if any inquiry.
-Email: aimmug200507@gmail.com
+- Email: aimmug200507@gmail.com
 
 ---
 
