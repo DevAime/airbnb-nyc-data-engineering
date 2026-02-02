@@ -1,19 +1,11 @@
-# DSA 2040A - ETL Exam Project: Airbnb Listings Analysis
-
-**Course:** Data Warehousing & Mining  
-**Instructor:** Austin Odera  
-**Student:** Aime Muganga  
-**Student ID:** 670232
-**Date:** 23 October 2025
-
----
-
 
 ##  Project Overview
 
 This project demonstrates a comprehensive **Extract, Transform, Load (ETL)** pipeline applied to Airbnb listings data from New York City. The objective is to extract raw data, identify and document data quality issues, apply meaningful transformations, and prepare a clean, analysis-ready dataset for business intelligence purposes.
 
 **Interactive Dashboard**includes a Streamlit web application for real-time data exploration and visualization!
+
+>  **Live Demo**: [Interactive Dashboard](https://dsa2040aetexamaime232-e34haydw2ruur4izwjrhjo.streamlit.app/)
 
 The project handles a realistically-sized dataset (31,995+ rows) and showcases industry-standard data engineering practices including:
 - Data profiling and quality assessment
@@ -29,7 +21,7 @@ The project handles a realistically-sized dataset (31,995+ rows) and showcases i
 
 
 <img width="1907" height="657" alt="Screenshot 2025-10-24 160834" src="https://github.com/user-attachments/assets/7a6d3dbd-542e-4b84-911a-b3879731d771" />
-
+**Dashboard link:** https://dsa2040aetexamaime232-e34haydw2ruur4izwjrhjo.streamlit.app/
 ---
 
 ##  Data Source
@@ -444,26 +436,18 @@ The Streamlit dashboard provides comprehensive analytics across multiple dimensi
 - **Predictive Modeling:** Clean, feature-rich dataset ready for ML applications
 - **Interactive Exploration:** Stakeholders can explore data without technical skills
 
----
-
-##  Lessons Learned
-
-1. **Context-Aware Imputation:** Imputing price by room type and neighborhood yields more accurate results than simple mean/median
-2. **Data Merging Strategy:** Understanding data relationships (overlapping vs. new records) is crucial for correct merge logic
-3. **Feature Engineering Impact:** Derived columns often provide more value than raw data for business intelligence
-4. **Outlier Handling:** Not all outliers are errors—domain knowledge is essential for proper treatment
-5. **Reproducibility:** Well-documented, sequential notebooks enable others to replicate and validate results
-6. **Interactive Dashboards:** Non-technical stakeholders benefit greatly from interactive visualization tools
 
 ---
 
+## Loading Phase
 
-##  Author
+The loading phase has been implemented and you can access it here: https://github.com/DevAime/DSA2040A_Load_AimeMuganga_232
 
-Aime Muganga
+---
 
-Course: DSA 2040A - Data Warehousing & Mining   
-
+##  Contact
+ 
+You can contact me through my email if any inquiry.
 Email: aimmug200507@gmail.com
 
 ---
